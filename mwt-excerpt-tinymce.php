@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: MWT-摘要顯示 TinyMCE 編輯器
- * Description: 修改https://gist.github.com/nfsarmento/08f1ca62357df508b2e5d00daf024021，並將製作為WordPress外掛，讓摘顯示TinyMCE編輯器模式
+ * Description: 修改https://gist.github.com/nfsarmento/08f1ca62357df508b2e5d00daf024021，並將製作為WordPress外掛，讓摘顯示TinyMCE編輯器
  * Version: 1.0
  * Author: minwt
  * Author URI: https://www.minwt.com
